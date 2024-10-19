@@ -1,3 +1,10 @@
+## Links
+- Qiita: https://qiita.com/Shilaca
+- note: https://note.com/shilaca/
+- Docswell (slide): https://www.docswell.com/user/shilaca
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shilaca&layout=compact&title_color=90BB87)
 
 <!--
