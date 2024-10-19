@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @shilaca
-- 👀 I’m interested in ... WebXR
-- 🌱 I’m currently learning ... Rust and WebAssembly
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shilaca&layout=compact&title_color=90BB87)
 
 <!--
